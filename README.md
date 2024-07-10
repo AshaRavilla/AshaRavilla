@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Asha Ravilla 👋
+
+Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data engineering, cloud computing, and real-time data processing.
+
+## About Me
+
+- 🔭 I'm currently looking for full time opportunities in data engineering field.
+- 🌱 I’m currently learning advanced AWS services and Apache Kafka.
+- 👯 I’m looking to collaborate on data engineering projects.
+- 💬 Ask me about data engineering, Python, AWS, and Apache Kafka.
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/asha-ravilla-22a693137/)
+- ⚡ Fun fact: I love solving complex data problems and automating workflows.
+
+💥💥💥 ~~ Check out my portfolio here! ~~ 💥💥💥
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/asha-ravilla-22a693137/)
+- [Medium](https://medium.com/@ashalatha579)
