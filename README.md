@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data engi
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/asha-ravilla-22a693137/)
 - ⚡ Fun fact: I love solving complex data problems and automating workflows.
 
-[💥💥💥 ~~ Check out my portfolio here! ~~ 💥💥💥] (https://github.com/AshaRavilla/portfolio)
+💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥
 
 ## Connect with Me
 
