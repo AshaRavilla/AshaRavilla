@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data engineering, cloud computing, and real-time data processing.
+Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate about Big Data engineering, cloud computing, real-time data processing, and machine learning.
 
 ## About Me
 
-- 🔭 I'm currently looking for full time opportunities in data engineering field.
-- 🌱 I’m currently learning advanced AWS services and Apache Kafka.
-- 👯 I’m looking to collaborate on data engineering projects.
-- 💬 Ask me about data engineering, Python, AWS, and Apache Kafka.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/asha-ravilla-22a693137/)
-- ⚡ Fun fact: I love solving complex data problems and automating workflows.
+- 🔭 I'm currently looking for full-time opportunities in data engineering and data science fields.
+- 🌱 I’m currently learning advanced AWS services, Apache Kafka, and deep learning techniques.
+- 👯 I’m looking to collaborate on data engineering and data science projects.
+- 💬 Ask me about data engineering, Python, AWS, Apache Kafka, and machine learning.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
+- ⚡ Fun fact: I love solving complex data problems, automating workflows, and experimenting with new machine learning models.
 
 💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/asha-ravilla-22a693137/)
+- [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 - [Medium](https://medium.com/@ashalatha579)
+
