@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 ## About Me
 
 - 🔭 I'm currently looking for full-time opportunities in data engineering and data science fields.
-- 🌱 I’m currently learning advanced AWS services, Apache Kafka, and deep learning techniques.
+- 🌱 I’m proficient at leveraging advanced AWS services, Apache Spark to solve big data problems.
 - 👯 I’m looking to collaborate on data engineering and data science projects.
-- 💬 Ask me about data engineering, Python, AWS, Apache Kafka, and machine learning.
+- 💬 Ask me about data engineering, Python, AWS, Apache Spark, Apache Kafka and machine learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 - ⚡ Fun fact: I love solving complex data problems, automating workflows, and experimenting with new machine learning models.
 
