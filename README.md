@@ -51,5 +51,4 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshaRavilla&theme=radical&no-bg=true&no-frame=true&row=1&column=6)
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/asharavilla)
 
