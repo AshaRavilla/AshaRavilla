@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 
 ## Contribution Activity
 
-![Asha's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshaRavilla&theme=react-dark&hide_border=true&area=true)
+![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshaRavilla&theme=react-dark&hide_border=true&area=true)
 
 ## GitHub Trophies
 
