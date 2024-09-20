@@ -36,3 +36,8 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 ## GitHub Stats
 
 ![Asha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaRavilla&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaRavilla&layout=compact&theme=radical)
+
