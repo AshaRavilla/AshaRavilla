@@ -41,3 +41,11 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaRavilla&layout=compact&theme=radical)
 
+## Contribution Activity
+
+![Asha's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshaRavilla&theme=react-dark&hide_border=true&area=true)
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshaRavilla&theme=radical&no-bg=true&no-frame=true&row=1&column=6)
+
