@@ -1,6 +1,7 @@
-##  Hi there, I'm Asha Ravilla 👋
+
 ![GitHub Banner](files/github-header-image.png)
 <!--
+##  Hi there, I'm Asha Ravilla 👋
 **AshaRavilla/AshaRavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,13 +34,14 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 - [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 - [Medium](https://medium.com/@ashalatha579)
 
-## GitHub Stats
+## GitHub Stats and Top Languages
 
-![Asha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaRavilla&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaRavilla&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AshaRavilla&show_icons=true&theme=radical" alt="Asha's GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshaRavilla&layout=compact&theme=radical" alt="Top Languages"></td>
+  </tr>
+</table>
 
 ## Contribution Activity
 
