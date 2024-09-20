@@ -33,3 +33,6 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 - [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 - [Medium](https://medium.com/@ashalatha579)
 
+## GitHub Stats
+
+![Asha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaRavilla&show_icons=true&theme=radical)
