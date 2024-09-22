@@ -27,7 +27,9 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 - ⚡ Fun fact: I love solving complex data problems, automating workflows, and experimenting with new machine learning models.
 
-💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥
+<!--💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥-->
+
+🚀 **[Explore My Full Portfolio](https://github.com/AshaRavilla/portfolio)**
 
 ## Connect with Me
 
