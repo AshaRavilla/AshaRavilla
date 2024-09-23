@@ -30,10 +30,12 @@ Welcome to my GitHub profile!
 
 [![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)
 
-## Connect with Me
+## 🏆 Certifications & Badges
 
-- [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
-- [Medium](https://medium.com/@ashalatha579)
+| ![AWS Certification](files/aws-certified-cloud-practitioner.png) | ![DataCamp Certification](files/DA%20Associate%20-%20badge.png) |
+|----------------------------------------------------------|-----------------------------------------------------------------------|
+| **AWS Certified Cloud Practioner**                     | **Datacamp - Associate Data Analyst**                                          |
+
 
 ## GitHub Stats and Top Languages
 
@@ -44,6 +46,14 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
+- [Medium](https://medium.com/@ashalatha579)
+
+
+
+<!--
 ## Contribution Activity
 
 ![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshaRavilla&theme=react-dark&hide_border=true&area=true)
@@ -51,5 +61,5 @@ Welcome to my GitHub profile!
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshaRavilla&theme=radical&no-bg=true&no-frame=true&row=1&column=6)
-
+-->
 
