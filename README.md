@@ -46,11 +46,6 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
-- [Medium](https://medium.com/@ashalatha579)
-
 
 
 <!--
