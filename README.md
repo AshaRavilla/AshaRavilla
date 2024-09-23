@@ -1,5 +1,5 @@
 
-![GitHub Banner](files/github-header-image-9.png)
+![GitHub Banner](files/github-header-image-10.png)
 <!--
 ##  Hi there, I'm Asha Ravilla 👋
 **AshaRavilla/AshaRavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
