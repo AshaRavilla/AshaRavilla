@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate 
 
 <!--💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥-->
 
-🚀 **[Explore My Full Portfolio](https://github.com/AshaRavilla/portfolio)**
+[![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)
 
 ## Connect with Me
 
