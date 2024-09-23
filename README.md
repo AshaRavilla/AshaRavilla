@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a Data Engineer and Data Scientist passionate about Big Data engineering, cloud computing, real-time data processing, and machine learning.
-
+Welcome to my GitHub profile! 
 ## About Me
 
 - 🔭 I'm currently looking for full-time opportunities in data engineering and data science fields.
