@@ -31,6 +31,11 @@ Welcome to my GitHub profile!
 <!--[![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)-->
 [![My Portfolio](files/Portfolio_animation_v1.gif)](https://github.com/AshaRavilla/portfolio)
 
+## 🏆 Certifications & Badges
+
+| <img src="files/aws-certified-cloud-practitioner.png" alt="AWS Certification" width="100"/> | <img src="files/DA%20Associate%20-%20badge.png" alt="DataCamp Certification" width="100"/> |
+|----------------------------------------------------------|-----------------------------------------------------------------------|
+| **AWS Certified Cloud Practitioner**                     | **Datacamp - Associate Data Analyst**                                          |
 
 
 
@@ -43,11 +48,6 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
-## 🏆 Certifications & Badges
-
-| ![AWS Certification](files/aws-certified-cloud-practitioner.png) | ![DataCamp Certification](files/DA%20Associate%20-%20badge.png) |
-|----------------------------------------------------------|-----------------------------------------------------------------------|
-| **AWS Certified Cloud Practioner**                     | **Datacamp - Associate Data Analyst**                                          |
 
 <!--
 ## Contribution Activity
