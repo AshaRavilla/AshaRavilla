@@ -1,5 +1,5 @@
 
-![GitHub Banner](files/github-header-image_1.png)
+![GitHub Banner](files/github-header-image_2.png)
 <!--
 ##  Hi there, I'm Asha Ravilla 👋
 **AshaRavilla/AshaRavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,17 +28,13 @@ Welcome to my GitHub profile!
 
 <!--💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥-->
 
-[![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)
-<!--[![My Portfolio](files/Portfolio_animation_v1.gif)](https://github.com/AshaRavilla/portfolio)-->
-
-## 🏆 Certifications & Badges
-
-| ![AWS Certification](files/aws-certified-cloud-practitioner.png) | ![DataCamp Certification](files/DA%20Associate%20-%20badge.png) |
-|----------------------------------------------------------|-----------------------------------------------------------------------|
-| **AWS Certified Cloud Practioner**                     | **Datacamp - Associate Data Analyst**                                          |
+<!--[![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)-->
+[![My Portfolio](files/Portfolio_animation_v1.gif)](https://github.com/AshaRavilla/portfolio)
 
 
-## GitHub Stats and Top Languages
+
+
+## GitHub Analytics
 
 <table>
   <tr>
@@ -47,7 +43,11 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
+## 🏆 Certifications & Badges
 
+| ![AWS Certification](files/aws-certified-cloud-practitioner.png) | ![DataCamp Certification](files/DA%20Associate%20-%20badge.png) |
+|----------------------------------------------------------|-----------------------------------------------------------------------|
+| **AWS Certified Cloud Practioner**                     | **Datacamp - Associate Data Analyst**                                          |
 
 <!--
 ## Contribution Activity
