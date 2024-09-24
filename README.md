@@ -29,6 +29,7 @@ Welcome to my GitHub profile!
 <!--💥💥💥 ~~ [Check out my portfolio here!](https://github.com/AshaRavilla/portfolio) ~~ 💥💥💥-->
 
 [![My Portfolio](View%20My%20Portfolio.gif)](https://github.com/AshaRavilla/portfolio)
+<!--[![My Portfolio](files/Portfolio_animation_v1.gif)](https://github.com/AshaRavilla/portfolio)-->
 
 ## 🏆 Certifications & Badges
 
